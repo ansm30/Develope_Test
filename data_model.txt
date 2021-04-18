@@ -1,0 +1,10 @@
+
+
+charts
+id :integer
+task_name :string
+start_date :date
+end_date :date
+parent_id :integer
+
+
